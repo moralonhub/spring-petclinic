@@ -1,5 +1,5 @@
 web:
-  appname: spring-petclinic
+  appname: spring-petclinic-pain
   repo: moralon
   image: petclinic
   tag: latest
